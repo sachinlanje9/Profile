@@ -77,6 +77,8 @@ Bureau of Indian Standards | Graduate Engineer Trainee
 
 ## Technical Skills
 ![Excel](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+![Python](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)
 Excel, Python, SQL, PowerBI, Machine Learning
 
 ## Soft Skills
