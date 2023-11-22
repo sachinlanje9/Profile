@@ -1,8 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-<p align="left">My name is Sachin Lanje and I'm a Data Analyst
-
 <h1 align="center">Hi 👋, I'm Sachin Lanje</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
