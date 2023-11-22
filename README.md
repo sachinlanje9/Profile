@@ -2,21 +2,8 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 - 📫 How to reach me
-- Gmail: **sachinlanje9@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/sachin-lanje
-
-Gmail: sachinlanje9@gmail.com
-
-Linked In: [sachin-lanje](https://www.linkedin.com/in/sachin-lanje/)
-
-## E
+  Gmail: **sachinlanje9@gmail.com**
+  LinkedIn: https://www.linkedin.com/in/sachin-lanje
 
 ## Technical Skills
 Excel, Python, SQL, PowerBI, Machine Learning
-
-## Soft Skills
-Problem Solving,
-Teamwork,
-Time Management,
-Collaboration,
-Adaptability
