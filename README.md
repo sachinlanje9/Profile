@@ -76,7 +76,7 @@ Bureau of Indian Standards | Graduate Engineer Trainee
 * Bachelor of Technology in Agricultural Engineering from Dr. Panjabrao Deshmukh Krishi Vidyapeeth, Akola (Aug 2015 - Jul 2019)
 
 ## Technical Skills
-![Excel](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 ![Python](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 ![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)
 Excel, Python, SQL, PowerBI, Machine Learning
