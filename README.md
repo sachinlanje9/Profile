@@ -8,9 +8,9 @@ Contact: 9168558125
 
 Gmail: sachinlanje9@gmail.com
 
-Linked In: sachin-lanje
+Linked In: [sachin-lanje](https://www.linkedin.com/in/sachin-lanje/)
 
-##Projects
+## Projects
 ### Doctor fee prediction
 Github Repo Link: https://github.com/sachinlanje9/Doctor-Fee-Prediction
 
@@ -47,9 +47,7 @@ Bureau of Indian Standards | Graduate Engineer Trainee
 ## Education
 
 * Data Analytics Program (Part Time) from Masai School, Bangalore (Feb 2023 - Oct 2023)
-
 * Master of Technology in Agricultural Engineering from Dr. Panjabrao Deshmukh Krishi Vidyapeeth Akola (Sep 2019 - Dec 2021)
-
 * Bachelor of Technology in Agricultural Engineering from Dr. Panjabrao Deshmukh Krishi Vidyapeeth, Akola (Aug 2015 - Jul 2019)
 
 ## Technical Skills
