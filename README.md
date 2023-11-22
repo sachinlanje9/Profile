@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Lanje</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
+![140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70](https://github.com/sachinlanje9/sachinlanje9/assets/119444089/7922f179-e9cd-4ca8-b710-2390e574efa8)
 
 ### 📫 How to reach me
  * Gmail: **sachinlanje9@gmail.com**
