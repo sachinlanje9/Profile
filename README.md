@@ -23,5 +23,7 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Machine%20Learning-08CC96?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="machine-learning" />
   </a> 
-  https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-kumar&show_icons=true&locale=en&layout=compact" alt="vivek-kumar" /></p>
+
+![Alt text](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 </p>
