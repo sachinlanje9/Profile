@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sachin Lanje and I'm a Data Analyst, from ....</p>
+<p align="left">My name is Sachin Lanje and I'm a Data Analyst
 
 ###
 
