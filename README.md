@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+https://www.canva.com/design/DAF057D__58/ZPLTuds_DGYUy40GEJmN_Q/edit?utm_content=DAF057D__58&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 <p align="left">My name is Sachin Lanje and I'm a Data Analyst
 
