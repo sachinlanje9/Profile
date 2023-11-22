@@ -3,7 +3,7 @@
 
 ###
 
-<img src=”[https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c](https://github.com/sachinlanje9/sachinlanje9/assets/119444089/c12eb6f1-76f6-4eca-a9d8-2637287bdfc3).png" alt=”my banner”>
+<img src=”![White Violet Watercolor Beauty Salon Instagram Post](https://github.com/sachinlanje9/sachinlanje9/assets/119444089/c12eb6f1-76f6-4eca-a9d8-2637287bdfc3).png" alt=”my banner”>
 
 <p align="left">My name is Sachin Lanje and I'm a Data Analyst
 
