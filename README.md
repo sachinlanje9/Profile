@@ -1,6 +1,4 @@
-# Profile
-## Sachin Lanje, Data Analyst
-Gondia (Maharashtra)
+
 ### Professional Summary: 
 Highly skilled Data Analyst proficient in SQL, Python, and PowerBI. Strong problem-solving abilities to identify trends and patterns in data. Collaborative team player with excellent communication skills to present actionable insights. Adept at data visualization and analysis, supporting decision-making processes.
 
