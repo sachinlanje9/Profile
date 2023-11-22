@@ -3,7 +3,7 @@
 ###
 
 <img width=”20" height=”80" src=”![White Violet Watercolor Beauty Salon Instagram Post](https://github.com/sachinlanje9/sachinlanje9/assets/119444089/c12eb6f1-76f6-4eca-a9d8-2637287bdfc3).png" alt=”my banner”>
-
+</p>
 <p align="left">My name is Sachin Lanje and I'm a Data Analyst
 
 ###
