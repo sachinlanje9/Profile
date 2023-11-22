@@ -8,7 +8,9 @@
 <h1 align="center">Hi 👋, I'm vivek kumar</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
-![Alt text](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Alt text" />
+</div>
 
 - 📫 How to reach me **vivekkumar@gmail.com**
 
