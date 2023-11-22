@@ -1,7 +1,8 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-https://www.canva.com/design/DAF057D__58/ZPLTuds_DGYUy40GEJmN_Q/edit?utm_content=DAF057D__58&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![Uploading White Violet Watercolor Beauty Salon Instagram Post.png…]()
+
 
 <p align="left">My name is Sachin Lanje and I'm a Data Analyst
 
