@@ -2,14 +2,14 @@
 <h3 align="center">A passionate data analyst from India</h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Alt text" />
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Alt text" width="200" height="200" />
 </div>
 
  📫 How to reach me **sachinlanje9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/sachin-lanje target="blank">
+  <a href="https://linkedin.com/in/sachin-lanje" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sachin Lanje" height="30" width="40" />
   </a>
 </p>
