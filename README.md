@@ -1,20 +1,16 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-
-![White Violet Watercolor Beauty Salon Instagram Post](https://github.com/sachinlanje9/sachinlanje9/assets/119444089/c12eb6f1-76f6-4eca-a9d8-2637287bdfc3)
 <p align="left">My name is Sachin Lanje and I'm a Data Analyst
 
+<h1 align="center">Hi 👋, I'm Sachin Lanje</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-
-<h1 align="center">Hi 👋, I'm vivek kumar</h1>
-<h3 align="center">A passionate data analyst from India</h3>
-
-- 📫 How to reach me **vivekkumar@gmail.com**
+- 📫 How to reach me **sachinlanje9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vivek-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/sachin-lanje target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-kumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
