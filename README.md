@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Alt text" />
 </div>
 
-- 📫 How to reach me **sachinlanje9@gmail.com**
+ 📫 How to reach me **sachinlanje9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
