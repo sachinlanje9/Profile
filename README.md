@@ -5,7 +5,9 @@
  * Gmail: **sachinlanje9@gmail.com**
  * LinkedIn: https://www.linkedin.com/in/sachin-lanje
 
-<h1 align="center">Hi 👋, I'm vivek kumar</h1>
+
+
+<h1 align="center">Hi 👋, I'm Sachin Lanje</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
 <div align="center">
@@ -17,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/vivek-kumar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-kumar" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sachin Lanje" height="30" width="40" />
   </a>
 </p>
 
@@ -39,5 +41,3 @@
     <img src="https://img.shields.io/badge/Machine%20Learning-08CC96?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="machine-learning" />
   </a> 
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-kumar&show_icons=true&locale=en&layout=compact" alt="vivek-kumar" /></p>
