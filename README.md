@@ -8,6 +8,8 @@
 <h1 align="center">Hi 👋, I'm vivek kumar</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
+![Alt text](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
+
 - 📫 How to reach me **vivekkumar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -37,6 +39,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-kumar&show_icons=true&locale=en&layout=compact" alt="vivek-kumar" /></p>
-
-![Alt text](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
-
